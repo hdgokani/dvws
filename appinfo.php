@@ -2,7 +2,7 @@
 <?php
 
 // Show all information, defaults to INFO_ALL
-phpinfo();
+phpinfo(); 
 
 // Show just the module information.
 phpinfo(INFO_MODULES);
